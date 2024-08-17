@@ -1,0 +1,51 @@
+# General
+############
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Node.js / TypeScript
+######################
+node_modules/
+dist/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log
+*.tsbuildinfo
+
+# TypeScript cache
+##################
+*.tscache
+
+# Optional npm cache directory
+.npm
+
+# .NET
+######
+[Bb]in/
+[Oo]bj/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+####################
+.vscode/
+
+# Visual Studio
+###############
+.vs/
+
+# Other files
+#################
+/images
