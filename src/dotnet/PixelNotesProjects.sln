@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebPGenerator", "WebPGenerator\WebPGenerator.csproj", "{17AE53D6-132A-405E-A9E8-C49C7FAC08A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AE53D6-132A-405E-A9E8-C49C7FAC08A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AE53D6-132A-405E-A9E8-C49C7FAC08A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AE53D6-132A-405E-A9E8-C49C7FAC08A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AE53D6-132A-405E-A9E8-C49C7FAC08A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55302884-E8DC-45F5-A75B-BAC7A02F2BFF}
+	EndGlobalSection
+EndGlobal
